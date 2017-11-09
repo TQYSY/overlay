@@ -60,17 +60,14 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-              訂房即享5重禮：
-		&lt;p&gt;&lt;/p&gt;
-                &lt;i&gt;
-                    1.	星級酒店 驚喜優惠&lt;br&gt;
-		    2.	港幣11元坐頭等艙&lt;br&gt;
-		    3.	限量獨家福袋大抽獎&lt;br&gt;
-		    4.	表演門票隨機送&lt;br&gt;
-		    5.	信用卡11倍積分
-                &lt;/i&gt;
+              訂房即享以下重禮：&lt;br&gt;
+                &lt;div&gt;
+                   &lt;li&gt;&lt;span&gt;星級酒店 驚喜優惠&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   &lt;li&gt;&lt;span&gt;港幣11元坐頭等艙&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   &lt;li&gt;&lt;span&gt;限量獨家福袋大抽獎&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   ...更多
+                &lt;/div&gt;
             &lt;/label&gt;
-		&lt;p&gt;&lt;/p&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.venetianmacao.com/tc&quot; target=&quot;_blank&quot;&gt;
             更多詳情
             &lt;/a&gt;
