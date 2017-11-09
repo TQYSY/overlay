@@ -58,18 +58,14 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-		Book a room to Get 5 Benefits:
-                &lt;p&gt; &lt;/p&gt;
-                &lt;i&gt;
-                    1.	Luxury Hotel Special Offer&lt;br&gt;
-		    2.	HK$11 Get First Class Ferry Ticket&lt;br&gt;
-		    3.	Win Exclusive Gift Bag&lt;br&gt; 
-		    4.	Free Show Tickets&lt;br&gt;
-		    5.	Earn 11x Points
-                &lt;/i&gt;
-	 &lt;p&gt; &lt;/p&gt;
+		Book a room to get below Benefits:&lt;br&gt;
+                &lt;div&gt;
+                    &lt;li&gt;&lt;span&gt;Luxury Hotel Special Offer&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		    &lt;li&gt;&lt;span&gt;HK$11 First Class Ferry Ticket&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		    &lt;li&gt;&lt;span&gt;Win Exclusive Gift Bag&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		    ...and more
+                &lt;/div&gt;
             &lt;/label&gt;
-		&lt;p&gt; &lt;/p&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.sandscotaicentral.com/en&quot; target=&quot;_blank&quot;&gt;
                 SEE DETAILS
             &lt;/a&gt;
