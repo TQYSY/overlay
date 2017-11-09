@@ -58,15 +58,13 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-               예약 GET 3가지 오퍼: 
-		      &lt;p&gt;&lt;/p&gt;
-                &lt;i&gt;
-                    1.	고급 호텔 특별 할인&lt;br&gt;
-		    2.	HK$11에 뷔페 이용&lt;br&gt;
-		    3.	한정판 Gift Bag 추첨행사
-                &lt;/i&gt;
+               예약 GET 3가지 오퍼: &lt;br&gt;
+                &lt;div&gt;
+                    &lt;li&gt;&lt;span&gt;고급 호텔 특별 할인&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		    &lt;li&gt;&lt;span&gt;HK$11에 뷔페 이용&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		    &lt;li&gt;&lt;span&gt;한정판 Gift Bag 추첨행사&lt;/span&gt;&lt;/li&gt;
+                &lt;/div&gt;
             &lt;/label&gt;
-		&lt;p&gt;&lt;/p&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.parisianmacao.com/en&quot; target=&quot;_blank&quot;&gt;
                세부 사항 보기
             &lt;/a&gt;
