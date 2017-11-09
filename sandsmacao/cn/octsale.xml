@@ -58,16 +58,14 @@
                 &lt;/i&gt;
             &lt;/label&gt;
             &lt;label class=&quot;h2&quot;&gt;
-		订房即享4重礼：
-            &lt;p&gt; &lt;/p&gt; 
-                &lt;i&gt;
-                    1.	豪华酒店 惊喜优惠&lt;br&gt;
-		    2.	港币11元吃自助&lt;br&gt;
-		    3.	限量独家福袋大抽奖&lt;br&gt;
-		    4.	表演门票随机送
-                &lt;/i&gt;
+		 订房即享4重礼：&lt;br&gt;
+ 		&lt;div&gt;
+                   &lt;li&gt;&lt;span&gt;豪华酒店 惊喜优惠&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   &lt;li&gt;&lt;span&gt;港币11元吃自助&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   &lt;li&gt;&lt;span&gt;限量独家福袋大抽奖&lt;/span&gt;&lt;/li&gt;&lt;br&gt;
+		   &lt;li&gt;&lt;span&gt;表演门票随机送&lt;/span&gt;&lt;/li&gt;
+                &lt;/div&gt;
             &lt;/label&gt;
-		&lt;p&gt; &lt;/p&gt;
 			&lt;a class=&quot;btn-dtl&quot; href=&quot;https://sale.sandsresortsmacao.com/cn&quot; target=&quot;_blank&quot;&gt;
             更多详情
             &lt;/a&gt;
