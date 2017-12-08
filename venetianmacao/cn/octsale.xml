@@ -44,8 +44,8 @@
                 
             &lt;/i&gt;
         &lt;/label&gt;
-        &lt;div class=&quot;hr-line desktop&quot;&gt;
-        &lt;/div&gt;
+        &lt;!-- &lt;div class=&quot;hr-line desktop&quot;&gt;
+        &lt;/div&gt; --&gt;
         &lt;div class=&quot;img-block lf&quot;&gt;
             &lt;img src=&quot;/content/dam/macau/promotions/srm/oct-sale-2017/banner/vm-new-suite_500x340.jpg&quot;&gt;
             &lt;/img&gt;
